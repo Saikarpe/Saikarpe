@@ -53,3 +53,8 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
+## 📫 Connect With Me
+
+- 🌐 **LinkedIn:** [Sai Karpe](https://www.linkedin.com/in/sai-karpe-401772290/)
+  
+ *Explore the Repositories and i am damn sure that u would like that!!*
