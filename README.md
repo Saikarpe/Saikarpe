@@ -5,7 +5,7 @@
 ### 🚀 Electronics Engineer | AI/ML Developer | IoT Innovator
 
 <p>
-  <a href="https://linkedin.com/in/saikarpe">
+  <a href="https://www.linkedin.com/in/sai-karpe-401772290/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/saikarpe">
@@ -30,7 +30,7 @@
 
 I am a passionate **Electronics & Computer Engineering (ECE)** student with a deep interest in the intersection of hardware and **Artificial Intelligence**. I specialize in building scalable solutions that bridge the gap between embedded systems and intelligent algorithms.
 
-* 🔭 I’m currently working on: **IoT-integrated AI Systems**
+* 🔭 I’m currently working on: **CAAMC**
 * 🏆 **Achievement:** Winner of **2nd Prize** at TECH-Sanjivani 2K25 (National Level Tech-Fest)
 * 🧠 I’m strictly focused on: **Deep Learning, Computer Vision, and EMG Sensor Integration**
 * 👯 I’m looking to collaborate on: **Open Source AI & Robotics Projects**
