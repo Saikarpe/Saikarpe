@@ -90,14 +90,16 @@ I am a passionate **Electronics & Computer Engineering (ECE)** student with a de
 * **NPTEL:** Multiple Certifications
 
 ---
-
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikarpe&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikarpe&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saikarpe&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikarpe&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikarpe&layout=compact&theme=radical&hide_border=true&langs_count=8" height="140" alt="Top Languages" />
 </div>
