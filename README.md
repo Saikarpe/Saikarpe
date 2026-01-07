@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F5428D&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Sai+Karpe;ECE+Engineer+%7C+AIML+Enthusiast;Building+Smart+Solutions" alt="Typing SVG" />
 
-### 🚀 Electronics Engineer | AI/ML Developer | IoT Innovator
+### 🚀 Electronics Engineer | AI/ML Developer | DSA Solver
 
 <p>
   <a href="https://www.linkedin.com/in/sai-karpe-401772290/">
